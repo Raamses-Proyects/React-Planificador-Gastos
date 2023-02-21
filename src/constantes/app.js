@@ -1,0 +1,1 @@
+export const CATEGORIAS = ["ahorro", "comida", "casa", "gastos", "ocio", "salud", "subscripciones"]
